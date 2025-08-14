@@ -1,7 +1,5 @@
 # GSO-Data-Utils
-[![Dataset](https://img.shields.io/badge/GSO%20Dataset-Official%20Website-blue)](https://goo.gle/scanned-objects)  
-[![ArXiv](https://img.shields.io/badge/ArXiv-2204.11918-red?logo=arxiv&logoColor=fff)](https://arxiv.org/abs/2204.11918)  
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Download%20Data-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1Dtqiyt0QP9dabiaTN5qONdb8avc0aNg6?usp=sharing)
+[![Dataset](https://img.shields.io/badge/GSO%20Dataset-Official%20Website-blue)](https://goo.gle/scanned-objects)     [![ArXiv](https://img.shields.io/badge/ArXiv-2204.11918-red?logo=arxiv&logoColor=fff)](https://arxiv.org/abs/2204.11918)     [![Google Drive](https://img.shields.io/badge/Google%20Drive-Download%20Data-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1Dtqiyt0QP9dabiaTN5qONdb8avc0aNg6?usp=sharing)
 
 A toolkit for working with the GSO dataset.
 
@@ -115,6 +113,7 @@ blender --background --python render_cli.py -- --glb_path "path/to/file.glb" --o
 ```bash
 python render_batch.py --glb_folder "path/to/glb_folder" --out_path "path/to/out_folder"
 ```
+
 
 
 
